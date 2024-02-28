@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/NetArt-react/static/css/main.78890165.css",
+    "main.js": "/NetArt-react/static/js/main.a0a1dac5.js",
+    "static/js/453.ed3810f9.chunk.js": "/NetArt-react/static/js/453.ed3810f9.chunk.js",
+    "static/media/1.png": "/NetArt-react/static/media/1.034f1e05a3752579e0b0.png",
+    "static/media/3.png": "/NetArt-react/static/media/3.5d60ad109e474b0f68aa.png",
+    "static/media/2.png": "/NetArt-react/static/media/2.8563a9b8604354554997.png",
+    "static/media/logo.png": "/NetArt-react/static/media/logo.c3067270311d834dd695.png",
+    "index.html": "/NetArt-react/index.html",
+    "main.78890165.css.map": "/NetArt-react/static/css/main.78890165.css.map",
+    "main.a0a1dac5.js.map": "/NetArt-react/static/js/main.a0a1dac5.js.map",
+    "453.ed3810f9.chunk.js.map": "/NetArt-react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78890165.css",
+    "static/js/main.a0a1dac5.js"
+  ]
+}
